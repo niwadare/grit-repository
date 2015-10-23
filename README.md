@@ -1,0 +1,2 @@
+# grit-repository
+$ git init
